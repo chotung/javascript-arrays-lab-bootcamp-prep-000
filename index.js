@@ -32,4 +32,4 @@ function removeLastKitten() {
   tempKittens = tempKittens.slice(0,tempKittens.length -1);
   return tempKittens;
 }
-function 
+function removeFirstKitten()
